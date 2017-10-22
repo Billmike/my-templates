@@ -1,6 +1,6 @@
 # my-templates
 
-This is the official templates page for the More-Recipes application crafted by [Bill Michael](fiveninedeveloper.000webhostapp.com)
+This is the official templates page for the More-Recipes application crafted by [Bill Michael](https://fiveninedeveloper.000webhostapp.com)
 
 #  Demo Site
 
